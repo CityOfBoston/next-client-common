@@ -1,0 +1,3 @@
+[submodule "config-typescript"]
+	path = config-typescript
+	url = git@github.com:CityOfBoston/config-typescript.git
